@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MAD Demo</string>
+    <string name="TopBarTitle">Medien</string>
 </resources>
