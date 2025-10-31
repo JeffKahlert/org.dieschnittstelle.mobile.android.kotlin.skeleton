@@ -1,1 +1,1 @@
-Project Skeleton for MAD Demo from W25 onwards
+Meine Lösung für das Projekt Modul Mobile App Development
